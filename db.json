@@ -130,8 +130,8 @@
         "period": "2012"
     }
 ],
-
-"professionalcerts": [
+/*
+"professional certs": [
     {
         "title": "Microsoft Certified Azure Administrator Associate"
     },
@@ -147,20 +147,20 @@
     {
         "name": "Evon Onchoke",
         "role": "PM System Initiated Feedback Review/Technical Content",
-        "Company":"Techno Brain Africa’s 1st Microsoft Software Testing",
-        "statement":""
+        "Company": "Techno Brain Africa’s 1st Microsoft Software Testing",
+        "statement": " "
     },
     {
         "name": "Samwel Ongera",
         "role": "Functional Testing Engineer",
-        "Company":"Safaricom PLC",
-        "statement":""
+        "Company": "Safaricom PLC",
+        "statement": " "
     },
     {
         "name": "Martin Mweu",
         "role": "ICT Specialist",
-        "Company":"Ministry of Land, Housing and Urban Development",
-        "statement":""
+        "Company": "Ministry of Land, Housing and Urban Development",
+        "statement": " "
     }
-]
+]*/
 }
